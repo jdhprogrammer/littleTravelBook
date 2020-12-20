@@ -1,26 +1,28 @@
-# Project2
+# littleTravelBook
 
 ## Ideas
 
 ### Travel Journal
 
-```
-Journal Entries
-- Country
--Cit
-y*Hotel
-- rating
-- ...
-- notes
-*Food
-- rating
-- ...
-- notes 
-*Activiy
- - rating
-- ...
- - notes
-```
+
+It is called Little Travel Book
+We'll be using ZURB Foundation as our CSS.
+Also, will be using the formidable npm package for uploading images/files.
+This application will store travelers and locations in a database that will allow them to write reviews on their travels.
+Schema:
+Traveler:
+     traveler_name
+     travels_from
+     fave_destination
+     insta_name
+Location:
+     country_name
+     city_name
+Review:
+     traveler_name
+     city_traveled
+     review
+     rating
 
 ## Screenshots
 
