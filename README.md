@@ -42,19 +42,35 @@ Project Deployment: [https://jdhprogrammer-littletravelbook.herokuapp.com/](http
 ### Description
 
 ```
-Welcome to Project 2! This is yet another important milestone in your full-stack journey: designing and building your first full-stack web application. You and your team will design and build an app using the MVC paradigm and your own server-side API. You will also continue to add to your professional repertoire with testing, continuous integration and linting tools.
+Welcome to Project 2! This is yet another important milestone in your 
+full-stack journey: designing and building your first full-stack web 
+application. You and your team will design and build an app using the 
+MVC paradigm and your own server-side API. You will also continue to 
+add to your professional repertoire with testing, continuous integration 
+and linting tools.
 ```
 
 #### User Story
 
 ```
-As a Traveler. I want to have a online Journal where I can write about my different fun amazing travels around the world or my city. I want to be able to save journal entries and upload photos. I would also enjoy being able to share some of those journal entries as posts for friends or the world to see. And then of course read travel posts shared by others.
+As a Traveler. I want to have a online Journal where I can write about 
+my different fun amazing travels around the world or my city. I want 
+to be able to save journal entries and upload photos. I would also enjoy 
+being able to share some of those journal entries as posts for friends 
+or the world to see. And then of course read travel posts shared by others.
 ```
 
 #### More Details
 
 ```
-The user is able to Signup as a Traveler. They create a login. they have a user homepage which will display their most recent posts and give them direct access their journal and photos, sort of a profile page for yourself. Then they can write new journal entries. they can check if they would like these journal entries to be shared with the public. You can view all the other users that have shared posts. You can view all posts or view posts by specific travelers.
+The user is able to Signup as a Traveler. They create a login. 
+they have a user homepage which will display their most recent 
+posts and give them direct access their journal and photos, 
+sort of a profile page for yourself. Then they can write new 
+journal entries. they can check if they would like these journal 
+entries to be shared with the public. You can view all the other 
+users that have shared posts. You can view all posts or view 
+posts by specific travelers.
 ```
 
 ### Technologies Used
